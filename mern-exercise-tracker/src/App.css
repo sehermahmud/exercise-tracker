@@ -1,0 +1,16 @@
+.full{
+  background-color: palevioletred;
+}
+.item{
+  color: white;
+}
+.h3 {
+  text-align: center;
+  color: #d87093;
+}
+.link{
+  text-decoration: none!important; 
+}
+.button{
+  text-decoration: none;
+}
